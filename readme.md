@@ -27,4 +27,3 @@ Contribuições são sempre bem-vindas! Se você deseja melhorar o código, adic
 ### Créditos
 
 Este código foi desenvolvido como parte de um desafio da Digital Innovation One.
-```
